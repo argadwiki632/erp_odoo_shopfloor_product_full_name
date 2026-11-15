@@ -1,0 +1,1 @@
+# erp_odoo_shopfloor_product_full_name
