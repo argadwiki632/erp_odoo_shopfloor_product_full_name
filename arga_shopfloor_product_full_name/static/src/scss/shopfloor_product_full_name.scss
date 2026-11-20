@@ -1,0 +1,12 @@
+.o_mrp_display_record {
+
+    .o_finished_product > .text-truncate,
+    .o_mrp_record_line > .text-truncate {
+        flex: 1 1 auto;
+        min-width: 0;
+        overflow: visible;
+        overflow-wrap: anywhere;
+        text-overflow: clip;
+        white-space: normal;
+    }
+}

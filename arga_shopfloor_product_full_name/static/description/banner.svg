@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="800" viewBox="0 0 1600 800">
+  <rect width="1600" height="800" fill="#f6f1fc"/>
+  <circle cx="1510" cy="90" r="290" fill="#e9dcf4"/>
+  <circle cx="1510" cy="730" r="360" fill="#dcecf7"/>
+  <rect x="550" y="154" width="500" height="52" rx="26" fill="#824080"/>
+  <text x="800" y="188" text-anchor="middle" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="1.2">ODOO MANUFACTURING / SHOP FLOOR</text>
+  <rect x="250" y="300" width="1100" height="92" rx="24" fill="#fff" stroke="#e8ddf1" stroke-width="2"/>
+  <rect x="250" y="300" width="12" height="92" rx="6" fill="#824080"/>
+  <text x="800" y="357" text-anchor="middle" fill="#704075" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700">Full product names in Odoo Shop Floor</text>
+  <text x="800" y="445" text-anchor="middle" fill="#4b527a" font-family="Arial, Helvetica, sans-serif" font-size="24">Long names wrap onto multiple lines instead of being cut off.</text>
+</svg>

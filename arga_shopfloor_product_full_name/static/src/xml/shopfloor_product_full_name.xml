@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<templates xml:space="preserve">
+    <t t-name="arga_shopfloor_product_full_name.MrpDisplayRecord"
+       t-inherit="mrp_workorder.MrpDisplayRecord" t-inherit-mode="extension">
+        <xpath expr="//div[hasclass('o_finished_product')]/span[hasclass('text-truncate')]" position="replace">
+            <span class="text-truncate me-1"><t t-esc="record.product_id[1]"/></span>
+        </xpath>
+    </t>
+</templates>
